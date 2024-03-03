@@ -2,6 +2,6 @@
 
 [Socket.IO](https://socket.io/)を用いて、双方向通信を行うチャットアプリケーションのサンプルです。
 
-# 参考
+## 参考
 
 [Socket.IO tutorial](https://socket.io/docs/v4/tutorial/introduction)
